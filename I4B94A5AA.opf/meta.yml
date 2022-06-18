@@ -1,0 +1,37 @@
+id: I4B94A5AA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:05:45.648785'
+last_modified: '2022-06-19T01:05:45.648797'
+parser: null
+source_metadata:
+  title: Cha rgans Hagiography of Virūpa
+  author: ཆ་རྒན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2014-03-06);
+    pagination incomplete (witness B), revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by Sachen International.
+    (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), Gabi Coura (gc)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:བློ་གསལ་དོན་གྲུབ། (ld)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/207
+  bases:
+    d2bf:
+      title: Cha rgans Hagiography of Virūpa
+      order: 1
+      base_file: d2bf.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
